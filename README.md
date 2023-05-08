@@ -1,2 +1,2 @@
 # functions
-learning functions
+learning functions.
